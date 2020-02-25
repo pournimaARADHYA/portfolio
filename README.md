@@ -1,3 +1,3 @@
 # portfolio
 
-[JavaScript Project](bank/html.html)
+[Bank Project](bank/html.html)
