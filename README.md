@@ -1,3 +1,3 @@
 # portfolio
 
-[JavaScript Project](pournimaARADHYA/Bank-Project-JS-/html.html)
+[JavaScript Project](pournimaARADHYA/projects/bank/html.html)
